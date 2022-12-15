@@ -1,0 +1,79 @@
+[
+  {
+    "model": "api.item",
+    "pk": 1,
+    "fields": {
+      "name": "grapess",
+      "category": "fruits",
+      "created": "2022-12-14T11:37:48.800Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 2,
+    "fields": {
+      "name": "audi",
+      "category": "car",
+      "created": "2022-12-14T11:37:48.800Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 3,
+    "fields": {
+      "name": "zen",
+      "category": "car",
+      "created": "2022-12-14T11:37:48.800Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 4,
+    "fields": {
+      "name": "mango",
+      "category": "fruits",
+      "created": "2022-12-14T11:37:48.800Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 5,
+    "fields": {
+      "name": "pappaya",
+      "category": "fruits",
+      "created": "2022-12-14T11:37:48.800Z"
+    }
+  },
+  {
+    "model": "api.item",
+    "pk": 6,
+    "fields": {
+      "name": "alto",
+      "category": "car",
+      "created": "2022-12-14T11:37:48.800Z"
+    }
+  },
+  {
+    "model": "api.states",
+    "pk": 1,
+    "fields": {
+      "state": "Kerala"
+    }
+  },
+  {
+    "model": "api.states",
+    "pk": 2,
+    "fields": {
+      "state": "GOA"
+    }
+  },
+  {
+    "model": "api.item",
+    "fields": {
+      "name": "carrot",
+      "category": "veg",
+      "created": "2022-12-14T11:37:48.800Z",
+      "states":1
+    }
+  }
+]
